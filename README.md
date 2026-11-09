@@ -1,2 +1,2 @@
 # osrs-teleport-map
-Clue Compass Teleports w/ short codes
+Clue Compass teleports w/ short codes
